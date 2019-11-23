@@ -24,6 +24,7 @@ public class ex2 {
 
 
     private static void numere(int m, int n) {
+
         for(int i=1; i<=n; i=i+m)
             System.out.println(i);
     }
