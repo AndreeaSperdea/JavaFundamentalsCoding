@@ -4,7 +4,6 @@
     <list default="true" id="f09ae06c-078e-467d-9fda-f11b785c17da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Projects/andreea/company/ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projects/andreea/company/ex3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/andreea/company/ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/andreea/company/ex3.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,26 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ex3">
-    <configuration name="SortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreea.company.SortArray" />
+  <component name="RunManager" selected="Application.ex4">
+    <configuration name="LoopExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreea.company.LoopExercises" />
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="andreea.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Tema03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.teme.Tema03" />
-      <module name="Projects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.teme.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ex4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreea.company.ex4" />
+      <module name="Projects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="andreea.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex4" />
+        <item itemvalue="Application.LoopExercises" />
         <item itemvalue="Application.ex3" />
         <item itemvalue="Application.ex2" />
         <item itemvalue="Application.ex1" />
-        <item itemvalue="Application.Tema03" />
-        <item itemvalue="Application.SortArray" />
       </list>
     </recent_temporary>
   </component>
