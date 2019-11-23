@@ -4,12 +4,22 @@ public class ex3 {
     public static void main(String[] args) {
         int[] array;
         array = initArray(100);
-        printArray(array); }
+        printArray(array);
+        array = initArray(200);
+        printArray(array);
+
+    }
     private static void printArray(int[] array) {
         for (int i = 0; i < array.length ; i++) {
             System.out.println(array[i]);
         }
     }
+
+    /**
+     *
+     * @param limit - cate numere sa contina arrayul
+     * @return
+     */
     private static int[] initArray(int limit) {
         int[] array = new int[limit];
         int count = 0;
