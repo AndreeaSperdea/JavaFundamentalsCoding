@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f09ae06c-078e-467d-9fda-f11b785c17da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Projects/andreea/company/ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Projects/andreea/company/ex3.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +54,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ex4">
+  <component name="RunManager" selected="Application.ex12">
     <configuration name="LoopExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="andreea.company.LoopExercises" />
       <module name="Projects" />
@@ -69,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="andreea.company.ex1" />
+    <configuration name="ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="andreea.company.ex12" />
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex12" />
         <item itemvalue="Application.ex4" />
         <item itemvalue="Application.LoopExercises" />
         <item itemvalue="Application.ex3" />
         <item itemvalue="Application.ex2" />
-        <item itemvalue="Application.ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
