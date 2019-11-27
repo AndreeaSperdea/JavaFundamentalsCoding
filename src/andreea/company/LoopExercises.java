@@ -14,9 +14,9 @@ public class LoopExercises {
                 System.out.println("Write your text [ quit - to exit]: ");
                 text = in.nextLine();
             }
-                System.out.println("Your text: " + text);
-                System.out.println("Write your text [ quit - to exit]: ");
-                text = in.nextLine();
+            System.out.println("Your text: " + text);
+            System.out.println("Write your text [ quit - to exit]: ");
+            text = in.nextLine();
 
 
         }
@@ -29,12 +29,11 @@ public class LoopExercises {
         System.out.println("Input the high of the rectangle:");
         int h = in.nextInt();
         System.out.println("Input the width of the rectangle");
-        int w= in.nextInt();
-        for (int raw =1; raw<=h;raw++)
-            for(int column = 1;column<=w;column++)
-            {
+        int w = in.nextInt();
+        for (int raw = 1; raw <= h; raw++)
+            for (int column = 1; column <= w; column++) {
                 System.out.print("*");
-                if(column == w){
+                if (column == w) {
                     System.out.println();
                 }
             }
@@ -42,33 +41,33 @@ public class LoopExercises {
 
         //Draw rectangle from stars (only edges)
         for (int raw = 1; raw <= h; raw++)
-            if(raw == 1 || raw ==h){
-            for (int column = 1; column <= w; column++){
-                System.out.print("*");
+            if (raw == 1 || raw == h) {
+                for (int column = 1; column <= w; column++) {
+                    System.out.print("*");
                     if (column == w) {
                         System.out.println();
 
-                }
-
-                        }
                     }
-        else{
-                for (int column = 1; column <= w; column++){
-                    if(column==1) {
+
+                }
+            } else {
+                for (int column = 1; column <= w; column++) {
+                    if (column == 1) {
                         System.out.print("*");
-                    }else if(column==w){
+                    } else if (column == w) {
                         System.out.print("*");
                         System.out.println();
-                    }
-                    else{System.out.print(" ");}
-
-                        }
-
-                    }
-
+                    } else {
+                        System.out.print(" ");
                     }
 
                 }
+
+            }
+
+    }
+
+}
 
 
 
