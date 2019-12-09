@@ -135,6 +135,16 @@ public class ex12 {
         System.out.println("Numere Pare: "+ even(array));
         System.out.println("Numere Impare: "+ odd(array));
     }
+    public static int Punctuli(Scanner scan){
+        System.out.println("Enter number: ");
+        return scan.nextInt();
+    }
+    public static void printTriangle(int size){
+        for (int i = 0; i < size; i++) {
+
+
+        }
+    }
 
     public static int[] readArray(Scanner scan, int size) {
         int[] array = new int[size];

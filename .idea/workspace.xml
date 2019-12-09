@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f09ae06c-078e-467d-9fda-f11b785c17da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/andreea/company/LoopExercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/andreea/company/LoopExercises.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/andreea/company/ex12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/andreea/company/ex12.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +36,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="andreea.company.coding" />
       <recent name="ro.teme" />
       <recent name="andreea.company" />
       <recent name="ro.andreea.ownstudy" />
       <recent name="ro.sdaacademy.javafundamentals.oop" />
-      <recent name="ro.sdaacademy.javafundamentals" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -55,13 +55,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ex12_me">
+  <component name="RunManager" selected="Application.ex12">
     <configuration name="LoopExercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="andreea.company.LoopExercises" />
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreea.company.*" />
+          <option name="PATTERN" value="andreea.company.coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,7 +74,7 @@
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreea.company.*" />
+          <option name="PATTERN" value="andreea.company.coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,7 +87,7 @@
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreea.company.*" />
+          <option name="PATTERN" value="andreea.company.coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,7 +100,7 @@
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreea.company.*" />
+          <option name="PATTERN" value="andreea.company.coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +113,7 @@
       <module name="Projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="andreea.company.*" />
+          <option name="PATTERN" value="andreea.company.coding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,10 +123,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex12" />
         <item itemvalue="Application.ex12_me" />
         <item itemvalue="Application.alex" />
         <item itemvalue="Application.LoopExercises" />
-        <item itemvalue="Application.ex12" />
         <item itemvalue="Application.ex4" />
       </list>
     </recent_temporary>
